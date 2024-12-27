@@ -1,7 +1,0 @@
-aiohttp
-torch
-cryptography
-aiohttp
-aiohttp-cors
-importlib-metadata
-pyarmor==7.5.0
